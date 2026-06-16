@@ -1,0 +1,1 @@
+{"name": "snake-game-leaderboard","version": "1.0.0","description": "Snake Game with Airtable Leaderboard","main": "index.js","scripts": {"dev": "node server.js","start": "node server.js","build": "echo 'Build complete'"},"keywords": ["snake", "game", "leaderboard"],"author": "","license": "MIT","dependencies": {"express": "^4.18.2","cors": "^2.8.5","dotenv": "^16.0.3"}}
